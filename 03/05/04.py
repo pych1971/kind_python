@@ -1,0 +1,5 @@
+city = input()
+street = input()
+building = input()
+apartment = input()
+print(f'г. {city}, ул. {street}, д. {building}, кв. {apartment}')
