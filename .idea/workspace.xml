@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-28-11-28">
-      <change afterPath="$PROJECT_DIR$/03/05/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/05/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/05/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/05/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/05/05.py" afterDir="false" />
+    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-28-11-49">
+      <change afterPath="$PROJECT_DIR$/03/06/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/06/07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -425,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711607350179</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="2024-03-28-11-49">
+      <option name="closed" value="true" />
+      <created>1711608550981</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711608550981</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +453,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-03-26-21-00" />
     <MESSAGE value="2024-03-26-21-01" />
     <MESSAGE value="2024-03-26-21-03" />
     <MESSAGE value="2024-03-27-19-22" />
@@ -468,6 +477,7 @@
     <MESSAGE value="2024-03-27-20-30" />
     <MESSAGE value="2024-03-28-11-01" />
     <MESSAGE value="2024-03-28-11-28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-03-28-11-28" />
+    <MESSAGE value="2024-03-28-11-49" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-03-28-11-49" />
   </component>
 </project>
