@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-29-12-58">
-      <change afterPath="$PROJECT_DIR$/05/01/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/09.py" afterDir="false" />
+    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-29-14-30">
+      <change afterPath="$PROJECT_DIR$/05/02/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/02/08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,24 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711382688427</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2024-03-25-21-46">
-      <option name="closed" value="true" />
-      <created>1711385210370</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1711385210370</updated>
     </task>
     <task id="LOCAL-00005" summary="2024-03-25-21-47">
       <option name="closed" value="true" />
@@ -469,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711699111354</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="2024-03-29-14-30">
+      <option name="closed" value="true" />
+      <created>1711704659558</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1711704659558</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -487,7 +487,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-03-27-19-48" />
     <MESSAGE value="2024-03-27-19-51" />
     <MESSAGE value="2024-03-27-19-53" />
     <MESSAGE value="2024-03-27-19-56" />
@@ -512,6 +511,7 @@
     <MESSAGE value="2024-03-29-11-27" />
     <MESSAGE value="2024-03-29-12-24" />
     <MESSAGE value="2024-03-29-12-58" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-03-29-12-58" />
+    <MESSAGE value="2024-03-29-14-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-03-29-14-30" />
   </component>
 </project>
