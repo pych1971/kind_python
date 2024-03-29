@@ -1,0 +1,9 @@
+n = int(input())
+i = 2
+a = 1
+b = 1
+print(a, end=' ')
+while i <= n:
+    print(b, end=' ')
+    a, b = b, a + b
+    i += 1
