@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-30-20-55">
-      <change afterPath="$PROJECT_DIR$/05/05/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/05/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/05/03.py" afterDir="false" />
+    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-03-31-17-38">
+      <change afterPath="$PROJECT_DIR$/05/06/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/06/08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,14 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711382688427</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2024-03-26-20-21">
-      <option name="closed" value="true" />
-      <created>1711466468066</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1711466468066</updated>
     </task>
     <task id="LOCAL-00009" summary="2024-03-26-20-22">
       <option name="closed" value="true" />
@@ -464,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711814130399</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2024-03-31-17-38">
+      <option name="closed" value="true" />
+      <created>1711888731472</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1711888731472</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +487,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-03-27-19-58" />
     <MESSAGE value="2024-03-27-20-00" />
     <MESSAGE value="2024-03-27-20-16" />
     <MESSAGE value="2024-03-27-20-18" />
@@ -507,6 +511,18 @@
     <MESSAGE value="2024-03-29-17-30" />
     <MESSAGE value="2024-03-30-16-05" />
     <MESSAGE value="2024-03-30-20-55" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-03-30-20-55" />
+    <MESSAGE value="2024-03-31-17-38" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-03-31-17-38" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05/06/06.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
