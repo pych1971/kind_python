@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-05-15-13-14">
-      <change afterPath="$PROJECT_DIR$/09/08/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/08/04.py" afterDir="false" />
+    <list default="true" id="521b878f-cdf7-422b-a143-58ade32b80ec" name="Changes" comment="2024-05-15-14-30">
+      <change afterPath="$PROJECT_DIR$/09/09/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/09/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/09/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/09/04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711382688427</updated>
-    </task>
-    <task id="LOCAL-00045" summary="2024-03-28-11-49">
-      <option name="closed" value="true" />
-      <created>1711608550981</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1711608550981</updated>
     </task>
     <task id="LOCAL-00046" summary="2024-03-28-12-29">
       <option name="closed" value="true" />
@@ -477,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715760896383</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="2024-05-15-14-30">
+      <option name="closed" value="true" />
+      <created>1715765442210</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1715765442210</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +495,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-04-18-15-19" />
     <MESSAGE value="2024-04-19-18-26" />
     <MESSAGE value="2024-04-20-17-12" />
     <MESSAGE value="2024-04-20-17-52" />
@@ -520,7 +519,8 @@
     <MESSAGE value="2024-05-07-12-45" />
     <MESSAGE value="2024-05-08-17-13" />
     <MESSAGE value="2024-05-15-13-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-05-15-13-14" />
+    <MESSAGE value="2024-05-15-14-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-05-15-14-30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
